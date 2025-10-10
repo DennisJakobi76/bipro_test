@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/cancellationRequestService/pom.xml" />
         <option value="$PROJECT_DIR$/cancellationCreationService/cancellationCreationService/pom.xml" />
+        <option value="$PROJECT_DIR$/cancellationProcessingMockService/pom.xml" />
       </list>
     </option>
   </component>
