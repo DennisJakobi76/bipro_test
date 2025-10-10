@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bipro-test-gui" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cancellationCreationService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cancellationProcessingMockService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cancellationRequestService" vcs="Git" />
   </component>
 </project>
